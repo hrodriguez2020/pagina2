@@ -1,0 +1,21 @@
+.boton{
+    background: rgb(25, 175, 235);
+    color: white; 
+    font-size:18px; 
+    font-family:arial;
+    width:200px;
+    height:39px;
+}
+.datos{
+    font-size:18px; 
+    font-family:arial;
+}
+.etiqueta{
+    font-size:18px; 
+    font-family:arial;
+}
+.asterisco{
+    font-size:18px; 
+    font-family:arial;
+    color: red;
+}

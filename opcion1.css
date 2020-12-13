@@ -1,0 +1,12 @@
+.boton{
+    background: rgb(255, 10, 194);
+    color: white; 
+    font-size:20px; 
+    font-family:arial;
+    width:180px;
+    height:59px;
+}
+.datos{
+    font-size:20px; 
+    font-family:arial;
+}
